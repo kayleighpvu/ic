@@ -137,6 +137,13 @@
           "synonyms": [
             "longmont"
           ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Colorado Springs",
+          "synonyms": [
+            "colorado springs"
+          ]
         }
       ],
       "fuzzy_match": true
